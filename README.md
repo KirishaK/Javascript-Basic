@@ -1,5 +1,4 @@
-JavaScript
-Introduction
+
 JavaScript is a versatile programming language commonly used in web development to create interactive and dynamic content. It enables developers to build responsive web applications, enhance user experiences, and automate tasks. It covers basic concepts with examples to demonstrate how to use JavaScript effectively.
 
 1.	Printing to Console:
