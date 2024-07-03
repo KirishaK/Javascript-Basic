@@ -31,9 +31,6 @@ console.log(colors[0]);
 •	What I Did: Printed the first element of the `colors` array (`console.log(colors[0]);`).
 
 
-
-
-
 4.	Conditional Statements:
 
 Code Example:
@@ -94,7 +91,7 @@ console.log(person.fullName());
 •	What I Learned: Constructed objects with properties and methods.
 •	What I Did: Defined a `person` object with `firstName`, `lastName`, `age`, and a `fullName` method (`console.log(person.fullName());`).
 
-8.	Handling User Input:
+8.	Handling User Input:	
 
 Code Example:
 
@@ -103,6 +100,29 @@ console.log("Hello, " + userInput);
 
 •	What I Learned: Captured user input and interacted with it.
 •	What I Did: Used `prompt` to get user input for their name and displayed a greeting (`console.log("Hello, " + userInput);`).
+
+9. Arithmetic Operations:
+
+Code Example:
+
+let num1 = 10;
+let num2 = 5;
+
+let sum = num1 + num2;
+console.log("Sum:", sum);
+
+let subtraction = num1 - num2;
+console.log("Subtraction:", subtraction);
+
+let multiplication = num1 * num2;
+console.log("Multiplication:", multiplication);
+
+let division = num1 / num2;
+console.log("Division:", division);
+
+•	What I Learned: Performed basic arithmetic operations using JavaScript.
+•	What I Did: Calculated the sum, subtraction, multiplication, and division of two numbers (num1 and num2) and printed the results.
+
 
 These exercises taught me a foundational understanding of JavaScript fundamentals, including variables, arrays, control flow, loops, functions, objects, and user interaction. 
 Each example helped me grasp essential programming concepts and improve my ability to solve problems using JavaScript. I look forward to further exploring advanced topics and applying
